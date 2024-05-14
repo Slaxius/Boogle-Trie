@@ -415,7 +415,5 @@ void exit(){
 	puts("");
 	puts("             Have a nice day :)");
 	puts("");
-	puts("            - Silverius Calvin -");
-	puts("               - 2702255294 -");
 	exit(0);
 }
